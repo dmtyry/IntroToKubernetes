@@ -12,7 +12,6 @@ In this challenge you will learn how to view application logs and trouble-shoot 
 
 - Find the logs for your application’s containers, using:
 	- `kubectl`
-	- Using the Kubernetes Dashboard
 	- Notice how you can check the logs of any of your pods individually.
 - Start a bash shell into one of the containers running on a pod and check the list of running processes
 - Find out if your pods had any errors.
