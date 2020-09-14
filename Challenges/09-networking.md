@@ -13,7 +13,7 @@ In this challenge you will be installing an Ingress Controller and learning how 
 - Delete the existing content-web deployment and service.
 - Install the nginx ingress controller.
 - Deploy the content-web service and create an Ingress resource for it. 
-- **Optional** Enable SSL/TLS on the front-end ingress
+- **Optional** Enable SSL/TLS on the ingress
 
 ## Success Criteria
 
