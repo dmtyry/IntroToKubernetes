@@ -50,5 +50,4 @@ In this challenge we'll be building and running the node.js based FabMedical app
 
 Reference articles on how to Dockerize a Node.js app:
 - https://nodejs.org/en/docs/guides/nodejs-docker-webapp/
-- https://buddy.works/guides/how-dockerize-node-application
 - https://www.cuelogic.com/blog/why-and-how-to-containerize-modern-nodejs-applications 
