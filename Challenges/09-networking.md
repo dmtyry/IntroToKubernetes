@@ -10,15 +10,11 @@ We started out with some very simple, default networking that Kubernetes gives u
 
 In this challenge you will be installing an Ingress Controller and learning how the "Ingress" resource in Kubernetes works. 
 
-- Delete the existing content-web deployment and service.
-- Install the nginx ingress controller.
-- Deploy the content-web service and create an Ingress resource for it. 
-- **Optional** Enable SSL/TLS on the ingress
-
 ## Success Criteria
 
 1. The nginx Ingress Controller is installed in your cluster
-1. You've recreated a new Ingress for content-web that allows access through a domain name.
+1. You've recreated a new Ingress for content-web and langfacts that allows access through a domain names (use https://nip.io/).
+1. **Optional** Enable SSL/TLS on the ingress
 
 
 ## References
