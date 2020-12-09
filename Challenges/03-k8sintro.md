@@ -24,7 +24,7 @@ In this challenge we will be provisioning our first Kubernetes cluster using the
 1. Show that a new, multi-node AKS kubernetes cluster exists.
 2. Show that its nodes are running in multiple availability zones.
 3. Show that it is using basic networking (kubenet)
-4. Your team must demonstrate that you are prompted on cluster access to authenticate with AAD
+<!-- 4. Your team must demonstrate that you are prompted on cluster access to authenticate with AAD -->
 
 ## Learning Resources
 
@@ -38,4 +38,4 @@ In this challenge we will be provisioning our first Kubernetes cluster using the
 - [Azure CLI: az aks create](https://docs.docker.com/engine/reference/builder/)
 - [Docker CLI reference](https://docs.docker.com/engine/reference/commandline/cli/)
 - [Authenticate with ACR from AKS](https://docs.microsoft.com/en-us/azure/aks/cluster-container-registry-integration)
-- [Azure AD integration](https://docs.microsoft.com/en-us/azure/aks/managed-aad)
+<!-- - [Azure AD integration](https://docs.microsoft.com/en-us/azure/aks/managed-aad) -->
