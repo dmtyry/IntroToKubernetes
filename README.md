@@ -25,7 +25,7 @@ In this hack you will solve a common challenge for companies migrating to the cl
    - Flex Kubernetes' muscles by scaling pods, and then nodes. Observe how Kubernetes responds to resource limits.
 - Challenge 6: **[Deploy MongoDB to AKS](Challenges/06-deploymongo.md)**
    - Deploy MongoDB to AKS from a public container registry.
-- Challenge 7 (Optional): **[Updates and Rollbacks](Challenges/07-updaterollback.md)**
+- Challenge 7: **[Updates and Rollbacks](Challenges/07-updaterollback.md)**
    - Deploy v2 of FabMedical to AKS via rolling updates, roll it back, then deploy it again using the blue/green deployment methodology.
 - Challenge 8 (Optional): **[Helm](Challenges/08-helm.md)**
    - Install Helm tools, customize a sample Helm package to deploy FabMedical, publish the Helm package to Azure Container Registry and use the Helm package to redeploy FabMedical to AKS.
