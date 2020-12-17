@@ -38,11 +38,6 @@ In this challenge you will be installing Helm locally and in your cluster and th
 	- Deploy the helm chart with v1 of the image you just created. 
 	- Verify that the app has been deployed successfully
 	- Make a note of the difference in number of steps involved in the deployment using individual yaml files vs the Helm chart
-- Deploying helm charts from a remote container registry
-	- Push the Helm chart you just packaged to an Azure Container Registry (ACR)
-	- Remove the package locally
-	- Uninstall the app and redeploy it using the Helm chart from the ACR repo
-	- Verify that the app has been deployed successfully
 
 ## Success Criteria
 
@@ -50,8 +45,6 @@ In this challenge you will be installing Helm locally and in your cluster and th
 2. You've created a Chart to install the application.
 3. The application installs and runs correctly.
 4. Demonstrate rollback from one version to another
-5. You're able to push the Chart to a container registry and install it from there.
-
 
 ## Learning Resources
 
