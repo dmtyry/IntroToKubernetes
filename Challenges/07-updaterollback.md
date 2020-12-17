@@ -41,6 +41,7 @@ In this challenge you'll be deploying a v2 of the FabMedical application to your
 ## Learning Resources
 
 - [Jobs in Kubernetes](https://kubernetes.io/docs/concepts/workloads/controllers/job/)
+- [Mongo Shell Reference](https://docs.mongodb.com/manual/reference/mongo-shell/)
 - [Deployments in Kubernetes - How to create, update, rollback](https://kubernetes.io/docs/concepts/workloads/controllers/deployment)
 - [Rolling updates in Kubernetes](https://kubernetes.io/docs/tutorials/kubernetes-basics/update/update-intro/)
 - [Get a Shell to a Running Container](https://kubernetes.io/docs/tasks/debug-application-cluster/get-shell-running-container/)
