@@ -29,6 +29,6 @@ In this challenge you will learn how to view application logs and trouble-shoot 
 2. Log into a running container and issue bash commands.
 3. Show Azure Monitor for Containers working.
 
-## Learning Resources
-- Azure Monitoring for Containers:
+## Resources
+- Azure Monitor for Containers:
     - https://docs.microsoft.com/en-us/azure/azure-monitor/insights/container-insights-overview
