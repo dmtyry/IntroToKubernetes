@@ -19,8 +19,6 @@ In this challenge you will be installing an Ingress Controller and learning how 
 
 ## References
 
-[Ingress](https://kubernetes.io/docs/concepts/services-networking/ingress/)
-
+[What is Ingress](https://kubernetes.io/docs/concepts/services-networking/ingress/)
 [Ingress Controllers](https://kubernetes.io/docs/concepts/services-networking/ingress-controllers/)
-
 [Create an NGINX ingress controller in AKS](https://docs.microsoft.com/en-us/azure/aks/ingress-basic)
