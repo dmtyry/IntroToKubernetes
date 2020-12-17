@@ -37,3 +37,13 @@ In this challenge you'll be deploying a v2 of the FabMedical application to your
 1. You've upgraded content-web as a rolling update.
 1. You've rolled back content-web.
 1. You've upgraded both content-web and content-api as a blue/green deployment.
+
+## Learning Resources
+
+- [Jobs in Kubernetes](https://kubernetes.io/docs/concepts/workloads/controllers/job/)
+- [Rolling updates in Kubernetes](https://kubernetes.io/docs/tutorials/kubernetes-basics/update/update-intro/)
+- [Deployments in Kubernetes - How to create, update, rollback](https://kubernetes.io/docs/concepts/workloads/controllers/deployment)
+- [Get a Shell to a Running Container](https://kubernetes.io/docs/tasks/debug-application-cluster/get-shell-running-container/)
+- [Blue-Green deployment on Kubernetes](https://www.ianlewis.org/en/bluegreen-deployments-kubernetes)
+
+
