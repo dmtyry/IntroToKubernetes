@@ -17,14 +17,14 @@ In this challenge we will be provisioning our first Kubernetes cluster using the
 	- The cluster will use Availability Zones for improved worker node reliability.
 - Use kubectl to prove that the cluster is a multi-node cluster and is working.
 - Use kubectl to examine which availability zone each node is in.  
-<!-- - Enable AAD Authentication (use AAD group "Team*N*-AKSAdmins", where *N* is your team number) -->
+- **Optional** Enable AAD Authentication (use AAD group "Team*N*-AKSAdmins", where *N* is your team number)
 
 ## Success Criteria
 
 1. Show that a new, multi-node AKS kubernetes cluster exists.
 2. Show that its nodes are running in multiple availability zones.
 3. Show that it is using basic networking (kubenet)
-<!-- 4. Your team must demonstrate that you are prompted on cluster access to authenticate with AAD -->
+4. **Optional** Your team must demonstrate that you are prompted on cluster access to authenticate with AAD
 
 ## Learning Resources
 
