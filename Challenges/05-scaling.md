@@ -25,8 +25,8 @@ In this challenge we will cover scale and resiliency from multiple aspects. We'l
 
 ## Success Criteria
 
-1. You can scale your cluster down to 1 node.
-1. Run 2 replicas of content-web.
-1. Run 4 replicas of content-api.
-1. Fix the resource issues.
-1. Enable cluster autoscaler and test it
+1. You can successfully scale your cluster down to 1 node.
+1. At least 2 replicas of content-web is running.
+1. At least 4 replicas of content-api is running.
+1. Fix the resource issues if so.
+1. Cluster autoscaler enabled and tested
