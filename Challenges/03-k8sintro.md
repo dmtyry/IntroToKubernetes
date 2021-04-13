@@ -33,8 +33,8 @@ In this challenge we will be provisioning our first Kubernetes cluster using the
 - [Kubectl overview](https://kubernetes.io/docs/reference/kubectl/overview/)
 
 **Azure Kubernetes Service**
-- [Deploy an AKS cluster using the Azure portal](https://docs.docker.com/get-started/)
-- [Deploy an AKS cluster using Azure CLI](https://docs.docker.com/v17.09/engine/userguide/networking)
+- [Deploy an AKS cluster using the Azure portal](https://docs.microsoft.com/ru-ru/azure/aks/kubernetes-walkthrough-portal)
+- [Deploy an AKS cluster using Azure CLI](https://docs.microsoft.com/ru-ru/azure/aks/kubernetes-walkthrough)
 - [Azure CLI: az aks create](https://docs.docker.com/engine/reference/builder/)
 - [Docker CLI reference](https://docs.docker.com/engine/reference/commandline/cli/)
 - [Authenticate with ACR from AKS](https://docs.microsoft.com/en-us/azure/aks/cluster-container-registry-integration)
