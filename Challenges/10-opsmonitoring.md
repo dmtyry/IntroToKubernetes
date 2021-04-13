@@ -18,16 +18,19 @@ In this challenge you will learn how to view application logs and trouble-shoot 
 	- Figure out how to get details on a running pod to see reasons for failures.
 - Azure Monitor:
 	- Enable "Azure Monitor for Containers" on the AKS cluster
-	- Show a screenshot of CPU and memory utilization of all nodes
-	- Show a screenshot displaying logs from the frontend and backend containers
 - **Optional**:
-	- Install any open-source monitoring tools of your choice (Grafana/Prometheus)
+	- Install and test any open-source monitoring tools of your choice (for example Grafana + Prometheus)
 
 ## Success Criteria
 
 1. Show logs for the containers running in your cluster.
 2. Log into a running container and issue bash commands.
-3. Show Azure Monitor for Containers working.
+3. A dashboard that answers the following questions is created:
+	- CPU and memory utilization of all nodes
+	- What is the CPU usage of your workload? 
+	- How many pods are currently pending?
+	- How much memory is allocatable per node in your cluster?
+	- Which pod is consuming the most memory?
 
 ## Resources
 - [Azure Monitor for Containers](https://docs.microsoft.com/en-us/azure/azure-monitor/insights/container-insights-overview)
