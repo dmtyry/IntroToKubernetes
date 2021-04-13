@@ -13,8 +13,8 @@ In this challenge you will be installing an Ingress Controller and learning how 
 ## Success Criteria
 
 1. The nginx Ingress Controller is installed in your cluster
-1. Create Ingresses for content-web and langfacts that allows access through a domain names (use https://nip.io/).
-1. **Optional** Enable SSL/TLS on the ingress
+1. Ingresses for content-web and langfacts is created, access through a domain names (use https://nip.io/) is allowed.
+1. **Optional** SSL/TLS on the ingress is enabled
 
 
 ## Resources
